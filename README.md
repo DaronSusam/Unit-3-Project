@@ -15,28 +15,59 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 ## User Story 
 
-Include your User Story you analyzed for your project here. Your User Story should have the following format: 
 
 > My name is Fabrizio Romano, I’m a soccer journalist that loves to leak important information. My next task is to leak who will win the next world cup, to make things interesting I want to look at who has won it each year so it can be someone new. Can you help me with a data set of           
 winners?
  
 
-## Dataset 
-
-Include a hyperlink to the source of your dataset used for this project. Additionally, provide a short description of each column used from the dataset, and the data type. 
-
-Example: 
-
-Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions 
-- **Country** (String) - name of the country 
-- **Population** (int) - number of people in the country 
-- **CO2Emissions** (double) - carbon dioxide emission in kilotons 
-
+## Dataset
+Kaggle data set link- https://www.kaggle.com/datasets/jahaidulislam/fifa-world-cup-award-winner-1930-2022?select=FIFA+World+Cup+Award+Winner+1930-2022.csv
+- **Country** (String) - Uruguay
+Italy
+Italy
+Uruguay
+West Germany
+Brazil
+Brazil
+England
+Brazil
+West Germany
+Argentina
+Italy
+Argentina
+West Germany
+Brazil
+France
+Brail
+Italy
+Spain
+Germany
+France
+Argentina
+- **Year** (int) - 1930
+1934
+1938
+1950
+1954
+1958
+1962
+1966
+1970
+1974
+1978
+1982
+1986
+1990
+1994
+1998
+2002
+2006
+2010
+2014
+2018
+2022
 ## UML Diagram 
-
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README. 
 ![Unit 3 Project](image.png)
 
 ## Description 
-
-Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+Our project is for soccer lovers. People who want to know more about the game and the best countries that play it. Fans as well as journalists could use it to predict the best countries that play the sport. The text files used collected data from the data sets from kaggle. These data sets were then used in our methods to be filtered and displayed as an output when the user picks a option from 1-22. We used nesred for-loops to filter the data and then if else statements. We used a toString() using toString() methods we are able to get the primitive values of our array. We also used a nested loop to append our items. The user needs to run the program and then the sata set with the year and the world cup winner of that year will show up. Then the user has to choose a number of the world cup from 1-22. For example if they choose one the first ever world cups winner will be shown. 
