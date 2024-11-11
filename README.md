@@ -17,9 +17,9 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 Include your User Story you analyzed for your project here. Your User Story should have the following format: 
 
-> As an [role], <br> 
-> I want to [goal], <br> 
-> so that I can [benefit]. 
+> My name is Fabrizio Romano, I’m a soccer journalist that loves to leak important information. My next task is to leak who will win the next world cup, to make things interesting I want to look at who has won it each year so it can be someone new. Can you help me with a data set of           
+winners?
+ 
 
 ## Dataset 
 
